@@ -19,7 +19,7 @@ Junior developer z Prahy. Stavím weby a webové aplikace v PHP, SQL a JavaScrip
 | [FutureMainWeb](https://github.com/DanielKuchvalek/FutureMainWeb) | Prezentační web Utopia Corp. s animacemi v Canvasu | HTML, CSS, JavaScript, PHP |
 
 ## Na čem právě pracuji
-🛠️ Klubovou aplikaci pro sportovní týmy (web + mobilní aplikace). Projekt je zatím ve vývoji a není veřejný. Laravel + MySQL, React + TypeScript, React Native (Expo).
+Klubovou aplikaci pro sportovní týmy (web + mobilní aplikace). Projekt je zatím ve vývoji a není veřejný. Laravel + MySQL, React + TypeScript, React Native (Expo).
 
 ## Kontakt
 [LinkedIn](https://www.linkedin.com/in/daniel-kuchv%C3%A1lek-3a2400440)
