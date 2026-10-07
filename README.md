@@ -2,9 +2,8 @@
 
 Junior developer z Prahy. Stavím weby a webové aplikace v PHP, SQL a JavaScriptu – od návrhu databáze po nasazení na hosting.
 
-- 🎓 Bc. Aplikovaná informatika (VŠFS, bakalářská práce o SQL injection), nyní navazující magisterské studium informatiky na ČZU
-- 💼 Od roku 2021 IT servis v Meandrie s.r.o. – HW/SW podpora a správa zdravotnického softwaru
-- 🤾 Trenér mládeže v házenkářském klubu LIONS Hostivice – pro klub jsem postavil i web
+- Bc. Aplikovaná informatika (VŠFS, bakalářská práce o SQL injection), nyní navazující magisterské studium informatiky na ČZU
+- Trenér mládeže v házenkářském klubu LIONS Hostivice – pro klub jsem postavil i web
 
 ## Technologie
 **Denně:** PHP · SQL (MySQL, SQLite, Oracle, MS SQL) · JavaScript · HTML/CSS · Tailwind CSS · Git  
