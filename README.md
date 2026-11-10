@@ -26,7 +26,7 @@ Kód není veřejný, rád je ukážu osobně.
 - **MyHomeLab** – vlastní domácí server (Ubuntu Server). Běží na něm moje aplikace pro správu pošty, která pomocí lokální AI třídí e-maily a vytahuje z nich objednávky, zásilky a faktury, a vlastní monitoring webů a služeb. Python (Flask), SQLite, Ollama, systemd, Tailscale, automatické zálohy.
 
 ## Další weby, které jsem navrhl a spravuji
-[proball.cz](https://www.proball.cz) (e-shop) · [czechhandball.cz](https://czechhandball.cz) · [meandrie.cz](https://meandrie.cz)
+[proball.cz](https://www.proball.cz) (e-shop) · [czechhandballcamp.cz](https://www.czechhandballcamp.cz) · [meandrie.cz](https://meandrie.cz)
 
 ## Kontakt
 [LinkedIn](https://www.linkedin.com/in/daniel-kuchv%C3%A1lek-3a2400440)
